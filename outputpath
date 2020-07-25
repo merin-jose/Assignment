@@ -1,0 +1,17 @@
+[ {
+  "Name" : "Drew",
+  "Favorite Food" : "Chocolate",
+  "Favorite Color" : "Green"
+}, {
+  "Name" : "Owen",
+  "Favorite Food" : "Pineapple",
+  "Favorite Color" : "Blue"
+}, {
+  "Name" : "Susan",
+  "Favorite Food" : "Cake",
+  "Favorite Color" : "Purple"
+}, {
+  "Name" : "Robert",
+  "Favorite Food" : "Pizza",
+  "Favorite Color" : "Green"
+} ]
